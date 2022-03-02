@@ -3,7 +3,7 @@
 /**
  * Author: Abdul
  * Codevirsion: 1.1
- * For: Bruder Ahmed Can (schwanz)
+ * For: Bruder Ahmed Can
  * codewritten: 18/02/2022
  *
  * mit Enter geht der Bird nach oben
